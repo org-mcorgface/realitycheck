@@ -11,7 +11,7 @@ Descriptions of the three workflows follow.
 
 ## `resource_class` workflow
 
-Tests all known `resource_class` options—queries the CircleCI API to verify that jobs ran with the requested resources.
+Tests all known `resource_class` asdfadfoptions—queries the CircleCI API to verify that jobs ran with the requested resources.
 
 ### Prerequisites
 - Your Nomad client instances must be large enough to accommodate these resource classes — see our [Configuration Reference](https://circleci.com/docs/2.0/configuration-reference/#resource_class) for details on the available resource classes and [our server docs](https://circleci.com/docs/2.0/nomad/#auto-scaling-policy-best-practices) about sizing your Nomad client instances.
